@@ -1,12 +1,12 @@
-# 📜 devscript team
+# 📜 devscripto team
 
 ### Scripting the future of the web.
 
-![devscript team](devscript-banner.pngnner.png)
+<p style="text-align:center;"><a href="https://devscripto.github.io" target="_blank" rel="noopener"><img src="/devscripto-banner.png" data-origin="devscripto-banner.png" alt="devscripto team" width="1024" height="320" style="max-width: 100%; height: auto; aspect-ratio: 1024/320"></a></p>
 
 -----
 
-Welcome to the official GitHub of **devscript team**\! We are a dynamic group of Full-Stack Developers and WordPress Experts from Bangladesh, committed to writing the code that powers exceptional digital experiences.
+Welcome to the official GitHub of **devscripto team**\! We are a dynamic group of Full-Stack Developers and WordPress Experts from Bangladesh, committed to writing the code that powers exceptional digital experiences.
 
 We believe that great software is built on elegant, efficient scripts. Our mission is to transform your ideas into reality by architecting robust, scalable, and high-performance web solutions. Since 2017, we've been helping businesses grow by delivering clean code and tangible results.
 
@@ -52,7 +52,7 @@ We leverage a modern tech stack to build efficient and powerful web solutions.
 
 We are always looking for exciting new challenges and partners to collaborate with. If you need a dedicated and skilled development team to bring your project to life, we would love to connect.
 
-* **📧 Email Us:** [`devscript@needlecode.com`](mailto:devscript@needlecode.com)
-* **🌐 Visit Our Website:** [`devscript.github.io`](https://devscript.github.io)
+* **📧 Email Us:** [`devscripto@needlecode.com`](mailto:devscripto@needlecode.com)
+* **🌐 Visit Our Website:** [`devscripto.github.io`](https://devscripto.github.io)
 
 Let's write the next chapter of your success, together.
