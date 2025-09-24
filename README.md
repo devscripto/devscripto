@@ -2,7 +2,7 @@
 
 ### Scripting the future of the web.
 
-<p style="text-align:center;"><a href="https://devscripto.github.io" target="_blank" rel="noopener"><img src="/devscripto-banner.png" data-origin="devscripto-banner.png" alt="devscripto team" width="1024" height="320" style="max-width: 100%; height: auto; aspect-ratio: 1024/320"></a></p>
+<p style="text-align:center;"><a href="https://devscripto.github.io" target="_blank" rel="noopener"><img src="https://devscripto.github.io/devscripto/devscripto-banner.png" data-origin="devscripto-banner.png" alt="devscripto team" width="1024" height="320" style="max-width: 100%; height: auto; aspect-ratio: 1024/320"></a></p>
 
 -----
 
